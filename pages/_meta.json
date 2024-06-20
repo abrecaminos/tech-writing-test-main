@@ -1,0 +1,17 @@
+{
+  "index": "Introduction",
+  "another": "Another Page",
+  "getting-started": "Getting Started with Ghost",
+  "advanced": "Installation",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact me",
+    "type": "Twitter",
+    "href": "https://twitter.com/patosenlaluna",
+    "newWindow": true
+  }
+  
+}
